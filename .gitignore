@@ -1,0 +1,10 @@
+model/
+venv/
+full.py
+main.py
+video/Car_datect.mp4
+video/car_polygon.avi
+video/car_polygon.mp4
+video/vehicle_speed_time_tracking_full.avi
+video/vehicle_speed_time_tracking.avi
+video/vehicle_tracking.avi
